@@ -1,6 +1,9 @@
 # Microbiome
 scripts for microbiome analysis
 
+## 2022_reads_number_Path.sh
+- 🧬 Calculate the number of reads for all *.fq.gz files in the folder
+
 ## 2022_kraken_top_species.ipynb
 - 🤗 For identification the most represented spesies in samples set with the biggest reads number per each sample
 - 🦠 Input files are the output of kraken-report
