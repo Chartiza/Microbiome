@@ -1,5 +1,5 @@
 # ESTbiobank-Microbiome
-scripts for microbiome analysis
+Some useful scripts for microbiome analysis (Whole genome sequencing data)
 
 ### 2022_reads_number_Path.sh
 - 🧬 Calculate the number of reads for all *.fq.gz files in the folder
