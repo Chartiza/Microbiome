@@ -1,4 +1,4 @@
-# Microbiome
+# ESTbiobank-Microbiome
 scripts for microbiome analysis
 
 ## 2022_reads_number_Path.sh
