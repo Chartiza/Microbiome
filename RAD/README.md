@@ -1,6 +1,12 @@
 # ESTbiobank-Microbiome
 Some useful scripts for microbiome analysis (Whole genome sequencing data)
 
+### 2022_Abundance-Prevalence.ipynb
+- 🤗 To vizualize Abundance-Prevalence plot
+- 🦠 Manualy made table with taxonomic information as input
+
+![All_phylum1](https://user-images.githubusercontent.com/15068419/182841026-427dfd97-19bb-498f-83cd-1535906c7f00.jpg)
+
 ### 2022_ReadsNumb_vs_ContigsStats.ipynb
 - 🤗 To understand the impact of the number of reads on the quality of the assembly
 - 🦠 Input files are the stats data were taken from MEGAHIT v1.2.9 log files after assemblies were done 
