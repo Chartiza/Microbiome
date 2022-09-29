@@ -1,8 +1,7 @@
 import random
 from Bio.Seq import Seq
 
-input = 'SRR13128014.fasta'
-#input = 'sample2.fasta'
+input = 'sample.fasta'
 
 for n in range(0, 5):
     #make reads 1 files
