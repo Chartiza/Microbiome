@@ -10,4 +10,5 @@ To test different approaches for assembling genomes, I needed data with known mi
 
 Schematic representation of reads cutting:
 
-![IMG_6967](https://user-images.githubusercontent.com/15068419/192989967-8b783044-ee19-4a10-91b3-e9745a0208a4.jpg)
+![LongReads_to_ShortReads](https://user-images.githubusercontent.com/15068419/211530062-34fe1c19-ab90-4af3-ad0b-92a7317975e3.png)
+
