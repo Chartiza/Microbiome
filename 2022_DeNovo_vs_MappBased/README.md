@@ -12,3 +12,7 @@ Schematic representation of reads cutting:
 
 ![LongReads_to_ShortReads](https://user-images.githubusercontent.com/15068419/211530062-34fe1c19-ab90-4af3-ad0b-92a7317975e3.png)
 
+## Authors
+Kateryna Pantiukh
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
