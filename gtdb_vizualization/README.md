@@ -4,6 +4,10 @@ Script is designed to create interactive vizualization of the taxonomy from the 
 Input files were taken from last to day release of GTDB DB (release207/207.0) 
 https://data.ace.uq.edu.au/public/gtdb/data/releases/release207/207.0/
 
+UPD: resalts for new GTDB relese are added.
+Input files were taken from last to day release of GTDB DB (release214/214.0) 
+https://data.ace.uq.edu.au/public/gtdb/data/releases/release214/214.0/
+
 Output is: 
 Interactive plots with taxonomy visualisation
 
