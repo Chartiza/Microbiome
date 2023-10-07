@@ -1,0 +1,1401 @@
+contig	tax_level	assignment	count_of_genes_assigned
+k141_61663	kingdom	2 Bacteria	39
+k141_61663	phylum	1239 Firmicutes	38
+k141_61663	phylum	203691 Spirochaetes	1
+k141_61663	family	186803 Lachnospiraceae	31
+k141_61663	family	NA Firmicutes fam. incertae sedis	2
+k141_61663	family	128827 Erysipelotrichaceae	2
+k141_61663	family	31979 Clostridiaceae	1
+k141_61663	family	NA Spirochaetales fam. incertae sedis	1
+k141_61663	family	186806 Eubacteriaceae	1
+k141_61663	family	541000 Ruminococcaceae	1
+k141_61663	genus	28050 Lachnospira	19
+k141_61663	genus	841 Roseburia	5
+k141_61663	genus	NA Lachnospiraceae gen. incertae sedis	4
+k141_61663	genus	NA Firmicutes gen. incertae sedis	2
+k141_61663	genus	1929045 Traorella	2
+k141_61663	genus	1485 Clostridium	1
+k141_61663	genus	NA Spirochaetales gen. incertae sedis	1
+k141_61663	genus	33042 Coprococcus	1
+k141_61663	genus	1730 Eubacterium	1
+k141_61663	genus	244127 Anaerotruncus	1
+k141_61663	genus	189330 Dorea	1
+k141_61663	genus	241189 Hespellia	1
+k141_61663	species	specI_v3_02374	19
+k141_61663	species	specI_v3_03702	2
+k141_61663	species	specI_v3_07704	2
+k141_61663	species	specI_v3_03657	2
+k141_61663	species	specI_v3_10428	2
+k141_61663	species	specI_v3_03692	1
+k141_61663	species	specI_v3_09169	1
+k141_61663	species	specI_v3_07718	1
+k141_61663	species	specI_v3_00861	1
+k141_61663	species	specI_v3_07680	1
+k141_61663	species	specI_v3_00858	1
+k141_61663	species	specI_v3_08199	1
+k141_61663	species	specI_v3_11851	1
+k141_61663	species	specI_v3_09026	1
+k141_61663	species	specI_v3_08201	1
+k141_61663	species	specI_v3_03608	1
+k141_61663	species	specI_v3_06908	1
+k141_62513	kingdom	2 Bacteria	40
+k141_62513	phylum	1239 Firmicutes	40
+k141_62513	family	186803 Lachnospiraceae	22
+k141_62513	family	186806 Eubacteriaceae	11
+k141_62513	family	31979 Clostridiaceae	5
+k141_62513	family	541000 Ruminococcaceae	2
+k141_62513	genus	28050 Lachnospira	11
+k141_62513	genus	1730 Eubacterium	11
+k141_62513	genus	1485 Clostridium	5
+k141_62513	genus	841 Roseburia	3
+k141_62513	genus	NA Lachnospiraceae gen. incertae sedis	3
+k141_62513	genus	1263 Ruminococcus	2
+k141_62513	genus	1506553 Lachnoclostridium	2
+k141_62513	genus	248744 Marvinbryantia	1
+k141_62513	genus	33042 Coprococcus	1
+k141_62513	genus	830 Butyrivibrio	1
+k141_62513	species	specI_v3_02374	6
+k141_62513	species	specI_v3_07679	5
+k141_62513	species	specI_v3_03832	5
+k141_62513	species	specI_v3_02373	4
+k141_62513	species	specI_v3_07641	3
+k141_62513	species	specI_v3_03599	2
+k141_62513	species	specI_v3_03702	1
+k141_62513	species	specI_v3_07677	1
+k141_62513	species	specI_v3_03442	1
+k141_62513	species	specI_v3_01833	1
+k141_62513	species	specI_v3_07706	1
+k141_62513	species	specI_v3_07634	1
+k141_62513	species	specI_v3_03690	1
+k141_62513	species	specI_v3_00860	1
+k141_62513	species	specI_v3_03608	1
+k141_62513	species	specI_v3_01595	1
+k141_62513	species	specI_v3_05221	1
+k141_62513	species	specI_v3_02375	1
+k141_62513	species	specI_v3_04246	1
+k141_62513	species	specI_v3_00861	1
+k141_62513	species	specI_v3_08172	1
+k141_93920	kingdom	2 Bacteria	112
+k141_93920	phylum	1239 Firmicutes	110
+k141_93920	phylum	1224 Proteobacteria	1
+k141_93920	phylum	201174 Actinobacteria	1
+k141_93920	family	186806 Eubacteriaceae	76
+k141_93920	family	186803 Lachnospiraceae	26
+k141_93920	family	NA Clostridiales fam. incertae sedis	3
+k141_93920	family	541000 Ruminococcaceae	3
+k141_93920	family	31979 Clostridiaceae	1
+k141_93920	family	75682 Oxalobacteraceae	1
+k141_93920	family	31953 Bifidobacteriaceae	1
+k141_93920	family	1843491 Selenomonadaceae	1
+k141_93920	genus	1730 Eubacterium	76
+k141_93920	genus	841 Roseburia	10
+k141_93920	genus	28050 Lachnospira	7
+k141_93920	genus	NA Lachnospiraceae gen. incertae sedis	3
+k141_93920	genus	NA Clostridiales gen. incertae sedis	3
+k141_93920	genus	33042 Coprococcus	3
+k141_93920	genus	572511 Blautia	2
+k141_93920	genus	1649459 Hungatella	1
+k141_93920	genus	1263 Ruminococcus	1
+k141_93920	genus	202907 Collimonas	1
+k141_93920	genus	244127 Anaerotruncus	1
+k141_93920	genus	207244 Anaerostipes	1
+k141_93920	genus	35829 Acetivibrio	1
+k141_93920	genus	1678 Bifidobacterium	1
+k141_93920	genus	82373 Anaerovibrio	1
+k141_93920	species	specI_v3_02375	73
+k141_93920	species	specI_v3_03702	9
+k141_93920	species	specI_v3_05263	5
+k141_93920	species	specI_v3_07661	3
+k141_93920	species	specI_v3_03684	3
+k141_93920	species	specI_v3_03832	2
+k141_93920	species	specI_v3_03670	2
+k141_93920	species	specI_v3_07679	1
+k141_93920	species	specI_v3_07590	1
+k141_93920	species	specI_v3_02701	1
+k141_93920	species	specI_v3_10828	1
+k141_93920	species	specI_v3_03632	1
+k141_93920	species	specI_v3_03440	1
+k141_93920	species	specI_v3_08868	1
+k141_93920	species	specI_v3_00410	1
+k141_93920	species	specI_v3_03599	1
+k141_93920	species	specI_v3_04296	1
+k141_93920	species	specI_v3_03657	1
+k141_93920	species	specI_v3_07710	1
+k141_93920	species	specI_v3_03436	1
+k141_93920	species	specI_v3_00860	1
+k141_93920	species	specI_v3_02119	1
+k141_109313	kingdom	2 Bacteria	79
+k141_109313	phylum	1239 Firmicutes	78
+k141_109313	phylum	544448 Tenericutes	1
+k141_109313	family	186803 Lachnospiraceae	48
+k141_109313	family	186806 Eubacteriaceae	15
+k141_109313	family	31979 Clostridiaceae	6
+k141_109313	family	NA Firmicutes fam. incertae sedis	4
+k141_109313	family	NA Clostridiales fam. incertae sedis	2
+k141_109313	family	541000 Ruminococcaceae	1
+k141_109313	family	1843490 Sporomusaceae	1
+k141_109313	family	2146 Acholeplasmataceae	1
+k141_109313	family	1843491 Selenomonadaceae	1
+k141_109313	genus	28050 Lachnospira	34
+k141_109313	genus	1730 Eubacterium	15
+k141_109313	genus	1485 Clostridium	6
+k141_109313	genus	NA Lachnospiraceae gen. incertae sedis	5
+k141_109313	genus	NA Firmicutes gen. incertae sedis	4
+k141_109313	genus	841 Roseburia	3
+k141_109313	genus	572511 Blautia	3
+k141_109313	genus	NA Clostridiales gen. incertae sedis	2
+k141_109313	genus	1263 Ruminococcus	1
+k141_109313	genus	1407607 Fusicatenibacter	1
+k141_109313	genus	909931 Sporolituus	1
+k141_109313	genus	830 Butyrivibrio	1
+k141_109313	genus	2147 Acholeplasma	1
+k141_109313	genus	970 Selenomonas	1
+k141_109313	genus	265975 Oribacterium	1
+k141_109313	species	specI_v3_02374	33
+k141_109313	species	specI_v3_02373	9
+k141_109313	species	specI_v3_07679	4
+k141_109313	species	specI_v3_02379	3
+k141_109313	species	specI_v3_03702	3
+k141_109313	species	specI_v3_03657	3
+k141_109313	species	specI_v3_03684	2
+k141_109313	species	specI_v3_07634	2
+k141_109313	species	specI_v3_03597	1
+k141_109313	species	specI_v3_03570	1
+k141_109313	species	specI_v3_03686	1
+k141_109313	species	specI_v3_06365	1
+k141_109313	species	specI_v3_03662	1
+k141_109313	species	specI_v3_03618	1
+k141_109313	species	specI_v3_08200	1
+k141_109313	species	specI_v3_07745	1
+k141_109313	species	specI_v3_07929	1
+k141_109313	species	specI_v3_02680	1
+k141_109313	species	specI_v3_07506	1
+k141_109313	species	specI_v3_07073	1
+k141_109313	species	specI_v3_03658	1
+k141_109313	species	specI_v3_05263	1
+k141_109313	species	specI_v3_07641	1
+k141_109313	species	specI_v3_03342	1
+k141_109313	species	specI_v3_10528	1
+k141_109313	species	specI_v3_03600	1
+k141_109313	species	specI_v3_07611	1
+k141_109313	species	specI_v3_10194	1
+k141_63441	kingdom	2 Bacteria	45
+k141_63441	phylum	1239 Firmicutes	45
+k141_63441	family	186803 Lachnospiraceae	28
+k141_63441	family	541000 Ruminococcaceae	5
+k141_63441	family	31979 Clostridiaceae	3
+k141_63441	family	NA Clostridiales fam. incertae sedis	2
+k141_63441	family	186806 Eubacteriaceae	2
+k141_63441	family	NA Firmicutes fam. incertae sedis	1
+k141_63441	family	33958 Lactobacillaceae	1
+k141_63441	family	31977 Veillonellaceae	1
+k141_63441	family	909930 Acidaminococcaceae	1
+k141_63441	family	1843491 Selenomonadaceae	1
+k141_63441	genus	28050 Lachnospira	13
+k141_63441	genus	841 Roseburia	8
+k141_63441	genus	1263 Ruminococcus	5
+k141_63441	genus	1485 Clostridium	3
+k141_63441	genus	NA Lachnospiraceae gen. incertae sedis	2
+k141_63441	genus	NA Clostridiales gen. incertae sedis	2
+k141_63441	genus	1730 Eubacterium	2
+k141_63441	genus	265975 Oribacterium	2
+k141_63441	genus	189330 Dorea	1
+k141_63441	genus	241189 Hespellia	1
+k141_63441	genus	33042 Coprococcus	1
+k141_63441	genus	NA Firmicutes gen. incertae sedis	1
+k141_63441	genus	1578 Lactobacillus	1
+k141_63441	genus	906 Megasphaera	1
+k141_63441	genus	33024 Phascolarctobacterium	1
+k141_63441	genus	82373 Anaerovibrio	1
+k141_63441	species	specI_v3_02374	13
+k141_63441	species	specI_v3_01595	5
+k141_63441	species	specI_v3_00859	4
+k141_63441	species	specI_v3_00861	2
+k141_63441	species	specI_v3_03621	1
+k141_63441	species	specI_v3_02120	1
+k141_63441	species	specI_v3_02817	1
+k141_63441	species	specI_v3_03700	1
+k141_63441	species	specI_v3_07615	1
+k141_63441	species	specI_v3_08173	1
+k141_63441	species	specI_v3_01593	1
+k141_63441	species	specI_v3_04294	1
+k141_63441	species	specI_v3_03912	1
+k141_63441	species	specI_v3_07616	1
+k141_63441	species	specI_v3_03702	1
+k141_63441	species	specI_v3_07935	1
+k141_63441	species	specI_v3_08201	1
+k141_63441	species	specI_v3_00860	1
+k141_63441	species	specI_v3_02379	1
+k141_63441	species	specI_v3_02373	1
+k141_63441	species	specI_v3_03684	1
+k141_63441	species	specI_v3_03605	1
+k141_63441	species	specI_v3_06908	1
+k141_63441	species	specI_v3_03692	1
+k141_63441	species	specI_v3_07499	1
+k141_51092	kingdom	2 Bacteria	88
+k141_51092	phylum	1239 Firmicutes	85
+k141_51092	phylum	1224 Proteobacteria	2
+k141_51092	phylum	976 Bacteroidetes	1
+k141_51092	family	186806 Eubacteriaceae	46
+k141_51092	family	186803 Lachnospiraceae	24
+k141_51092	family	31979 Clostridiaceae	7
+k141_51092	family	NA Firmicutes fam. incertae sedis	3
+k141_51092	family	541000 Ruminococcaceae	2
+k141_51092	family	186828 Carnobacteriaceae	2
+k141_51092	family	186817 Bacillaceae	1
+k141_51092	family	815 Bacteroidaceae	1
+k141_51092	family	213119 Desulfobacteraceae	1
+k141_51092	family	543 Enterobacteriaceae	1
+k141_51092	genus	1730 Eubacterium	46
+k141_51092	genus	NA Lachnospiraceae gen. incertae sedis	9
+k141_51092	genus	1485 Clostridium	6
+k141_51092	genus	841 Roseburia	5
+k141_51092	genus	NA Firmicutes gen. incertae sedis	3
+k141_51092	genus	830 Butyrivibrio	3
+k141_51092	genus	82802 Trichococcus	2
+k141_51092	genus	28050 Lachnospira	2
+k141_51092	genus	1903506 Drancourtella	1
+k141_51092	genus	1506577 Tyzzerella	1
+k141_51092	genus	653683 Anaerosporobacter	1
+k141_51092	genus	547 Enterobacter	1
+k141_51092	genus	44261 Oxobacter	1
+k141_51092	genus	459532 Terribacillus	1
+k141_51092	genus	2289 Desulfobacter	1
+k141_51092	genus	816 Bacteroides	1
+k141_51092	genus	33042 Coprococcus	1
+k141_51092	genus	1263 Ruminococcus	1
+k141_51092	genus	248744 Marvinbryantia	1
+k141_51092	genus	189330 Dorea	1
+k141_51092	species	specI_v3_02375	40
+k141_51092	species	specI_v3_02373	6
+k141_51092	species	specI_v3_08198	2
+k141_51092	species	specI_v3_02379	2
+k141_51092	species	specI_v3_00859	2
+k141_51092	species	specI_v3_04765	2
+k141_51092	species	specI_v3_06740	1
+k141_51092	species	specI_v3_03466	1
+k141_51092	species	specI_v3_11109	1
+k141_51092	species	specI_v3_03444	1
+k141_51092	species	specI_v3_11025	1
+k141_51092	species	specI_v3_07743	1
+k141_51092	species	specI_v3_00077	1
+k141_51092	species	specI_v3_07646	1
+k141_51092	species	specI_v3_07605	1
+k141_51092	species	specI_v3_08308	1
+k141_51092	species	specI_v3_08492	1
+k141_51092	species	specI_v3_02408	1
+k141_51092	species	specI_v3_06229	1
+k141_51092	species	specI_v3_03689	1
+k141_51092	species	specI_v3_07503	1
+k141_51092	species	specI_v3_06829	1
+k141_51092	species	specI_v3_03702	1
+k141_51092	species	specI_v3_02813	1
+k141_51092	species	specI_v3_00860	1
+k141_51092	species	specI_v3_03657	1
+k141_51092	species	specI_v3_07611	1
+k141_51092	species	specI_v3_04246	1
+k141_51092	species	specI_v3_04295	1
+k141_51092	species	specI_v3_05221	1
+k141_51092	species	specI_v3_01595	1
+k141_51092	species	specI_v3_07641	1
+k141_51092	species	specI_v3_00861	1
+k141_51092	species	specI_v3_03832	1
+k141_51092	species	specI_v3_05263	1
+k141_51092	species	specI_v3_07661	1
+k141_51092	species	specI_v3_03686	1
+k141_51092	species	specI_v3_03467	1
+k141_51092	species	specI_v3_03672	1
+k141_51092	species	specI_v3_06241	1
+k141_51532	kingdom	2 Bacteria	82
+k141_51532	phylum	1239 Firmicutes	81
+k141_51532	phylum	976 Bacteroidetes	1
+k141_51532	family	186803 Lachnospiraceae	54
+k141_51532	family	186806 Eubacteriaceae	12
+k141_51532	family	541000 Ruminococcaceae	10
+k141_51532	family	NA Firmicutes fam. incertae sedis	3
+k141_51532	family	31979 Clostridiaceae	1
+k141_51532	family	89373 Cytophagaceae	1
+k141_51532	family	NA Clostridiales fam. incertae sedis	1
+k141_51532	genus	28050 Lachnospira	23
+k141_51532	genus	841 Roseburia	13
+k141_51532	genus	1730 Eubacterium	12
+k141_51532	genus	1263 Ruminococcus	7
+k141_51532	genus	NA Lachnospiraceae gen. incertae sedis	5
+k141_51532	genus	33042 Coprococcus	4
+k141_51532	genus	572511 Blautia	3
+k141_51532	genus	NA Firmicutes gen. incertae sedis	3
+k141_51532	genus	189330 Dorea	2
+k141_51532	genus	830 Butyrivibrio	1
+k141_51532	genus	1926663 Phocea	1
+k141_51532	genus	NA Clostridiales gen. incertae sedis	1
+k141_51532	genus	336827 Rhodonellum	1
+k141_51532	genus	35829 Acetivibrio	1
+k141_51532	genus	1506553 Lachnoclostridium	1
+k141_51532	genus	1485 Clostridium	1
+k141_51532	genus	216851 Faecalibacterium	1
+k141_51532	genus	1506577 Tyzzerella	1
+k141_51532	genus	2039240 Anaerotignum	1
+k141_51532	species	specI_v3_02374	20
+k141_51532	species	specI_v3_02373	7
+k141_51532	species	specI_v3_01595	4
+k141_51532	species	specI_v3_03702	3
+k141_51532	species	specI_v3_00859	3
+k141_51532	species	specI_v3_03832	3
+k141_51532	species	specI_v3_03599	3
+k141_51532	species	specI_v3_07726	2
+k141_51532	species	specI_v3_03661	2
+k141_51532	species	specI_v3_00860	2
+k141_51532	species	specI_v3_03662	2
+k141_51532	species	specI_v3_07679	2
+k141_51532	species	specI_v3_03605	2
+k141_51532	species	specI_v3_07577	1
+k141_51532	species	specI_v3_03689	1
+k141_51532	species	specI_v3_07504	1
+k141_51532	species	specI_v3_03693	1
+k141_51532	species	specI_v3_05236	1
+k141_51532	species	specI_v3_08985	1
+k141_51532	species	specI_v3_02431	1
+k141_51532	species	specI_v3_07976	1
+k141_51532	species	specI_v3_08194	1
+k141_51532	species	specI_v3_07711	1
+k141_51532	species	specI_v3_10844	1
+k141_51532	species	specI_v3_07624	1
+k141_51532	species	specI_v3_06110	1
+k141_51532	species	specI_v3_07704	1
+k141_51532	species	specI_v3_04567	1
+k141_51532	species	specI_v3_07667	1
+k141_51532	species	specI_v3_07703	1
+k141_51532	species	specI_v3_03649	1
+k141_51532	species	specI_v3_10528	1
+k141_51532	species	specI_v3_11851	1
+k141_51532	species	specI_v3_07506	1
+k141_51532	species	specI_v3_10828	1
+k141_51532	species	specI_v3_07661	1
+k141_51532	species	specI_v3_05140	1
+k141_51532	species	specI_v3_02379	1
+k141_51532	species	specI_v3_07576	1
+k141_51532	species	specI_v3_06486	1
+k141_22096	kingdom	2 Bacteria	48
+k141_22096	phylum	1239 Firmicutes	48
+k141_22096	family	186803 Lachnospiraceae	32
+k141_22096	family	31979 Clostridiaceae	6
+k141_22096	family	186806 Eubacteriaceae	6
+k141_22096	family	NA Firmicutes fam. incertae sedis	2
+k141_22096	family	NA Clostridiales fam. incertae sedis	1
+k141_22096	family	541000 Ruminococcaceae	1
+k141_22096	genus	28050 Lachnospira	17
+k141_22096	genus	1730 Eubacterium	6
+k141_22096	genus	NA Lachnospiraceae gen. incertae sedis	5
+k141_22096	genus	1485 Clostridium	4
+k141_22096	genus	841 Roseburia	3
+k141_22096	genus	1506553 Lachnoclostridium	3
+k141_22096	genus	33042 Coprococcus	2
+k141_22096	genus	NA Firmicutes gen. incertae sedis	2
+k141_22096	genus	NA Clostridiales gen. incertae sedis	1
+k141_22096	genus	1263 Ruminococcus	1
+k141_22096	genus	248744 Marvinbryantia	1
+k141_22096	genus	265975 Oribacterium	1
+k141_22096	genus	390805 Geosporobacter	1
+k141_22096	genus	1266 Sarcina	1
+k141_22096	species	specI_v3_02374	15
+k141_22096	species	specI_v3_02373	3
+k141_22096	species	specI_v3_03832	2
+k141_22096	species	specI_v3_07679	2
+k141_22096	species	specI_v3_12218	2
+k141_22096	species	specI_v3_03702	1
+k141_22096	species	specI_v3_09609	1
+k141_22096	species	specI_v3_08491	1
+k141_22096	species	specI_v3_06317	1
+k141_22096	species	specI_v3_08264	1
+k141_22096	species	specI_v3_07505	1
+k141_22096	species	specI_v3_08177	1
+k141_22096	species	specI_v3_07726	1
+k141_22096	species	specI_v3_09195	1
+k141_22096	species	specI_v3_10194	1
+k141_22096	species	specI_v3_07661	1
+k141_22096	species	specI_v3_07337	1
+k141_22096	species	specI_v3_07641	1
+k141_22096	species	specI_v3_11851	1
+k141_22096	species	specI_v3_05221	1
+k141_22096	species	specI_v3_07038	1
+k141_22096	species	specI_v3_07577	1
+k141_22096	species	specI_v3_04295	1
+k141_22096	species	specI_v3_03600	1
+k141_22096	species	specI_v3_03684	1
+k141_22096	species	specI_v3_07647	1
+k141_22096	species	specI_v3_07718	1
+k141_22096	species	specI_v3_07704	1
+k141_22096	species	specI_v3_07613	1
+k141_162286	kingdom	2 Bacteria	27
+k141_162286	phylum	1239 Firmicutes	27
+k141_162286	family	186803 Lachnospiraceae	18
+k141_162286	family	186806 Eubacteriaceae	7
+k141_162286	family	NA Clostridiales fam. incertae sedis	1
+k141_162286	family	541000 Ruminococcaceae	1
+k141_162286	genus	28050 Lachnospira	9
+k141_162286	genus	1730 Eubacterium	7
+k141_162286	genus	841 Roseburia	4
+k141_162286	genus	33042 Coprococcus	2
+k141_162286	genus	NA Lachnospiraceae gen. incertae sedis	2
+k141_162286	genus	NA Clostridiales gen. incertae sedis	1
+k141_162286	genus	1263 Ruminococcus	1
+k141_162286	genus	1506553 Lachnoclostridium	1
+k141_162286	species	specI_v3_02374	9
+k141_162286	species	specI_v3_03702	3
+k141_162286	species	specI_v3_02373	3
+k141_162286	species	specI_v3_03605	2
+k141_162286	species	specI_v3_07679	2
+k141_162286	species	specI_v3_08492	2
+k141_162286	species	specI_v3_07704	1
+k141_162286	species	specI_v3_03684	1
+k141_162286	species	specI_v3_02375	1
+k141_162286	species	specI_v3_01595	1
+k141_162286	species	specI_v3_12218	1
+k141_162286	species	specI_v3_11095	1
+k141_85464	kingdom	2 Bacteria	49
+k141_85464	phylum	1239 Firmicutes	49
+k141_85464	family	186806 Eubacteriaceae	42
+k141_85464	family	186803 Lachnospiraceae	4
+k141_85464	family	31979 Clostridiaceae	3
+k141_85464	genus	1730 Eubacterium	42
+k141_85464	genus	1485 Clostridium	3
+k141_85464	genus	830 Butyrivibrio	2
+k141_85464	genus	841 Roseburia	1
+k141_85464	genus	28050 Lachnospira	1
+k141_85464	species	specI_v3_02375	42
+k141_85464	species	specI_v3_03618	3
+k141_85464	species	specI_v3_03702	1
+k141_85464	species	specI_v3_02374	1
+k141_85464	species	specI_v3_03799	1
+k141_85464	species	specI_v3_03794	1
+k141_63312	kingdom	2 Bacteria	57
+k141_63312	phylum	1239 Firmicutes	55
+k141_63312	phylum	976 Bacteroidetes	1
+k141_63312	phylum	201174 Actinobacteria	1
+k141_63312	family	186806 Eubacteriaceae	49
+k141_63312	family	186803 Lachnospiraceae	4
+k141_63312	family	31979 Clostridiaceae	2
+k141_63312	family	NA Bacteroidales fam. incertae sedis	1
+k141_63312	family	1643826 Eggerthellaceae	1
+k141_63312	genus	1730 Eubacterium	49
+k141_63312	genus	NA Lachnospiraceae gen. incertae sedis	2
+k141_63312	genus	1485 Clostridium	2
+k141_63312	genus	572511 Blautia	1
+k141_63312	genus	841 Roseburia	1
+k141_63312	genus	NA Bacteroidales gen. incertae sedis	1
+k141_63312	genus	84111 Eggerthella	1
+k141_63312	species	specI_v3_02375	49
+k141_63312	species	specI_v3_08201	1
+k141_63312	species	specI_v3_03685	1
+k141_63312	species	specI_v3_07500	1
+k141_63312	species	specI_v3_03609	1
+k141_63312	species	specI_v3_04354	1
+k141_63312	species	specI_v3_03467	1
+k141_63312	species	specI_v3_04316	1
+k141_63312	species	specI_v3_11355	1
+k141_93122	kingdom	2 Bacteria	65
+k141_93122	phylum	1239 Firmicutes	65
+k141_93122	family	186803 Lachnospiraceae	61
+k141_93122	family	31979 Clostridiaceae	3
+k141_93122	family	541000 Ruminococcaceae	1
+k141_93122	genus	28050 Lachnospira	54
+k141_93122	genus	1485 Clostridium	3
+k141_93122	genus	33042 Coprococcus	2
+k141_93122	genus	248744 Marvinbryantia	2
+k141_93122	genus	NA Lachnospiraceae gen. incertae sedis	1
+k141_93122	genus	189330 Dorea	1
+k141_93122	genus	1263 Ruminococcus	1
+k141_93122	genus	572511 Blautia	1
+k141_93122	species	specI_v3_02374	54
+k141_93122	species	specI_v3_11851	2
+k141_93122	species	specI_v3_05221	2
+k141_93122	species	specI_v3_07626	2
+k141_93122	species	specI_v3_08488	1
+k141_93122	species	specI_v3_03668	1
+k141_93122	species	specI_v3_03342	1
+k141_93122	species	specI_v3_06798	1
+k141_93122	species	specI_v3_08207	1
+k141_23465	kingdom	2 Bacteria	13
+k141_23465	phylum	1239 Firmicutes	13
+k141_23465	family	186803 Lachnospiraceae	8
+k141_23465	family	186806 Eubacteriaceae	2
+k141_23465	family	NA Firmicutes fam. incertae sedis	2
+k141_23465	family	31979 Clostridiaceae	1
+k141_23465	genus	1730 Eubacterium	2
+k141_23465	genus	NA Firmicutes gen. incertae sedis	2
+k141_23465	genus	841 Roseburia	2
+k141_23465	genus	NA Lachnospiraceae gen. incertae sedis	2
+k141_23465	genus	33042 Coprococcus	1
+k141_23465	genus	28050 Lachnospira	1
+k141_23465	genus	1485 Clostridium	1
+k141_23465	genus	830 Butyrivibrio	1
+k141_23465	genus	2039240 Anaerotignum	1
+k141_23465	species	specI_v3_07679	2
+k141_23465	species	specI_v3_02379	2
+k141_23465	species	specI_v3_11851	1
+k141_23465	species	specI_v3_02374	1
+k141_23465	species	specI_v3_07576	1
+k141_23465	species	specI_v3_07626	1
+k141_23465	species	specI_v3_03686	1
+k141_23465	species	specI_v3_00859	1
+k141_23465	species	specI_v3_07504	1
+k141_23465	species	specI_v3_11024	1
+k141_23465	species	specI_v3_11859	1
+k141_169831	kingdom	2 Bacteria	21
+k141_169831	phylum	1239 Firmicutes	21
+k141_169831	family	186803 Lachnospiraceae	10
+k141_169831	family	31979 Clostridiaceae	4
+k141_169831	family	186806 Eubacteriaceae	3
+k141_169831	family	NA Firmicutes fam. incertae sedis	2
+k141_169831	family	NA Clostridiales fam. incertae sedis	2
+k141_169831	genus	28050 Lachnospira	5
+k141_169831	genus	1485 Clostridium	4
+k141_169831	genus	1730 Eubacterium	3
+k141_169831	genus	NA Firmicutes gen. incertae sedis	2
+k141_169831	genus	33042 Coprococcus	2
+k141_169831	genus	NA Clostridiales gen. incertae sedis	2
+k141_169831	genus	841 Roseburia	1
+k141_169831	genus	NA Lachnospiraceae gen. incertae sedis	1
+k141_169831	genus	572511 Blautia	1
+k141_169831	species	specI_v3_02374	5
+k141_169831	species	specI_v3_03684	2
+k141_169831	species	specI_v3_02373	2
+k141_169831	species	specI_v3_07704	1
+k141_169831	species	specI_v3_07718	1
+k141_169831	species	specI_v3_07647	1
+k141_169831	species	specI_v3_07611	1
+k141_169831	species	specI_v3_03605	1
+k141_169831	species	specI_v3_03600	1
+k141_169831	species	specI_v3_10000	1
+k141_169831	species	specI_v3_10528	1
+k141_169831	species	specI_v3_02377	1
+k141_169831	species	specI_v3_05140	1
+k141_169831	species	specI_v3_07679	1
+k141_169831	species	specI_v3_02379	1
+k141_92837	kingdom	2 Bacteria	162
+k141_92837	phylum	1239 Firmicutes	162
+k141_92837	family	186806 Eubacteriaceae	125
+k141_92837	family	186803 Lachnospiraceae	25
+k141_92837	family	31979 Clostridiaceae	3
+k141_92837	family	541000 Ruminococcaceae	3
+k141_92837	family	NA Firmicutes fam. incertae sedis	3
+k141_92837	family	128827 Erysipelotrichaceae	1
+k141_92837	family	33958 Lactobacillaceae	1
+k141_92837	family	186807 Peptococcaceae	1
+k141_92837	genus	1730 Eubacterium	125
+k141_92837	genus	841 Roseburia	5
+k141_92837	genus	830 Butyrivibrio	4
+k141_92837	genus	NA Lachnospiraceae gen. incertae sedis	4
+k141_92837	genus	28050 Lachnospira	3
+k141_92837	genus	1485 Clostridium	3
+k141_92837	genus	NA Firmicutes gen. incertae sedis	3
+k141_92837	genus	1263 Ruminococcus	2
+k141_92837	genus	572511 Blautia	2
+k141_92837	genus	588605 Robinsoniella	2
+k141_92837	genus	115543 Parasporobacterium	1
+k141_92837	genus	241189 Hespellia	1
+k141_92837	genus	61170 Holdemania	1
+k141_92837	genus	33042 Coprococcus	1
+k141_92837	genus	1578 Lactobacillus	1
+k141_92837	genus	216851 Faecalibacterium	1
+k141_92837	genus	79206 Desulfosporosinus	1
+k141_92837	genus	189330 Dorea	1
+k141_92837	genus	2005359 Faecalicatena	1
+k141_92837	species	specI_v3_02375	124
+k141_92837	species	specI_v3_02374	3
+k141_92837	species	specI_v3_03598	3
+k141_92837	species	specI_v3_03793	3
+k141_92837	species	specI_v3_07734	3
+k141_92837	species	specI_v3_04541	2
+k141_92837	species	specI_v3_03685	2
+k141_92837	species	specI_v3_03797	1
+k141_92837	species	specI_v3_07667	1
+k141_92837	species	specI_v3_04646	1
+k141_92837	species	specI_v3_07038	1
+k141_92837	species	specI_v3_05089	1
+k141_92837	species	specI_v3_03636	1
+k141_92837	species	specI_v3_07577	1
+k141_92837	species	specI_v3_04372	1
+k141_92837	species	specI_v3_08204	1
+k141_92837	species	specI_v3_05921	1
+k141_92837	species	specI_v3_06908	1
+k141_92837	species	specI_v3_07619	1
+k141_92837	species	specI_v3_04136	1
+k141_92837	species	specI_v3_07623	1
+k141_92837	species	specI_v3_08488	1
+k141_92837	species	specI_v3_04295	1
+k141_92837	species	specI_v3_07001	1
+k141_92837	species	specI_v3_04246	1
+k141_92837	species	specI_v3_07576	1
+k141_92837	species	specI_v3_07679	1
+k141_92837	species	specI_v3_03605	1
+k141_92837	species	specI_v3_03445	1
+k141_78103	kingdom	2 Bacteria	101
+k141_78103	phylum	1239 Firmicutes	101
+k141_78103	family	186806 Eubacteriaceae	95
+k141_78103	family	186803 Lachnospiraceae	5
+k141_78103	family	541000 Ruminococcaceae	1
+k141_78103	genus	1730 Eubacterium	94
+k141_78103	genus	28050 Lachnospira	2
+k141_78103	genus	1263 Ruminococcus	1
+k141_78103	genus	33951 Acetobacterium	1
+k141_78103	genus	46205 Pseudobutyrivibrio	1
+k141_78103	genus	NA Lachnospiraceae gen. incertae sedis	1
+k141_78103	genus	830 Butyrivibrio	1
+k141_78103	species	specI_v3_02375	94
+k141_78103	species	specI_v3_02374	2
+k141_78103	species	specI_v3_01595	1
+k141_78103	species	specI_v3_12133	1
+k141_78103	species	specI_v3_02410	1
+k141_78103	species	specI_v3_07337	1
+k141_78103	species	specI_v3_03799	1
+k141_1083	kingdom	2 Bacteria	20
+k141_1083	phylum	1239 Firmicutes	20
+k141_1083	family	186806 Eubacteriaceae	19
+k141_1083	family	186803 Lachnospiraceae	1
+k141_1083	genus	1730 Eubacterium	19
+k141_1083	genus	28050 Lachnospira	1
+k141_1083	species	specI_v3_02375	19
+k141_1083	species	specI_v3_02374	1
+k141_125295	kingdom	2 Bacteria	32
+k141_125295	phylum	1239 Firmicutes	32
+k141_125295	family	186803 Lachnospiraceae	28
+k141_125295	family	186804 Peptostreptococcaceae	2
+k141_125295	family	128827 Erysipelotrichaceae	1
+k141_125295	family	31979 Clostridiaceae	1
+k141_125295	genus	28050 Lachnospira	19
+k141_125295	genus	NA Lachnospiraceae gen. incertae sedis	5
+k141_125295	genus	189330 Dorea	2
+k141_125295	genus	830 Butyrivibrio	2
+k141_125295	genus	1913599 Peptoanaerobacter	2
+k141_125295	genus	61170 Holdemania	1
+k141_125295	genus	1485 Clostridium	1
+k141_125295	species	specI_v3_02374	19
+k141_125295	species	specI_v3_01683	5
+k141_125295	species	specI_v3_07667	2
+k141_125295	species	specI_v3_08464	2
+k141_125295	species	specI_v3_06267	2
+k141_125295	species	specI_v3_05921	1
+k141_125295	species	specI_v3_03618	1
+k141_110554	kingdom	2 Bacteria	9
+k141_110554	phylum	1239 Firmicutes	9
+k141_110554	family	186803 Lachnospiraceae	5
+k141_110554	family	186806 Eubacteriaceae	3
+k141_110554	family	31979 Clostridiaceae	1
+k141_110554	genus	28050 Lachnospira	3
+k141_110554	genus	1730 Eubacterium	3
+k141_110554	genus	33042 Coprococcus	1
+k141_110554	genus	1935927 Massilioclostridium	1
+k141_110554	genus	NA Lachnospiraceae gen. incertae sedis	1
+k141_110554	species	specI_v3_02374	2
+k141_110554	species	specI_v3_02373	2
+k141_110554	species	specI_v3_07679	1
+k141_110554	species	specI_v3_03690	1
+k141_110554	species	specI_v3_03832	1
+k141_110554	species	specI_v3_10237	1
+k141_110554	species	specI_v3_04667	1
+k141_156707	kingdom	2 Bacteria	18
+k141_156707	phylum	1239 Firmicutes	18
+k141_156707	family	186803 Lachnospiraceae	11
+k141_156707	family	186806 Eubacteriaceae	6
+k141_156707	family	128827 Erysipelotrichaceae	1
+k141_156707	genus	28050 Lachnospira	6
+k141_156707	genus	1730 Eubacterium	6
+k141_156707	genus	841 Roseburia	2
+k141_156707	genus	33042 Coprococcus	1
+k141_156707	genus	1506553 Lachnoclostridium	1
+k141_156707	genus	61170 Holdemania	1
+k141_156707	genus	NA Lachnospiraceae gen. incertae sedis	1
+k141_156707	species	specI_v3_02375	4
+k141_156707	species	specI_v3_02374	3
+k141_156707	species	specI_v3_03832	3
+k141_156707	species	specI_v3_07704	1
+k141_156707	species	specI_v3_02373	1
+k141_156707	species	specI_v3_07679	1
+k141_156707	species	specI_v3_07661	1
+k141_156707	species	specI_v3_00859	1
+k141_156707	species	specI_v3_12218	1
+k141_156707	species	specI_v3_07383	1
+k141_156707	species	specI_v3_11107	1
+k141_48433	kingdom	2 Bacteria	150
+k141_48433	phylum	1239 Firmicutes	150
+k141_48433	family	186803 Lachnospiraceae	142
+k141_48433	family	186806 Eubacteriaceae	4
+k141_48433	family	NA Clostridiales fam. incertae sedis	2
+k141_48433	family	NA Firmicutes fam. incertae sedis	1
+k141_48433	family	31979 Clostridiaceae	1
+k141_48433	genus	28050 Lachnospira	133
+k141_48433	genus	NA Lachnospiraceae gen. incertae sedis	5
+k141_48433	genus	1730 Eubacterium	4
+k141_48433	genus	NA Clostridiales gen. incertae sedis	2
+k141_48433	genus	841 Roseburia	2
+k141_48433	genus	830 Butyrivibrio	2
+k141_48433	genus	NA Firmicutes gen. incertae sedis	1
+k141_48433	genus	1485 Clostridium	1
+k141_48433	species	specI_v3_02374	133
+k141_48433	species	specI_v3_07679	3
+k141_48433	species	specI_v3_03684	2
+k141_48433	species	specI_v3_04246	2
+k141_48433	species	specI_v3_07576	1
+k141_48433	species	specI_v3_02375	1
+k141_48433	species	specI_v3_07577	1
+k141_48433	species	specI_v3_03599	1
+k141_48433	species	specI_v3_04296	1
+k141_48433	species	specI_v3_07500	1
+k141_48433	species	specI_v3_08481	1
+k141_48433	species	specI_v3_07501	1
+k141_48433	species	specI_v3_09167	1
+k141_48433	species	specI_v3_03802	1
+k141_142061	kingdom	2 Bacteria	23
+k141_142061	phylum	1239 Firmicutes	23
+k141_142061	family	186803 Lachnospiraceae	23
+k141_142061	genus	28050 Lachnospira	23
+k141_142061	species	specI_v3_02374	23
+k141_126557	kingdom	2 Bacteria	58
+k141_126557	phylum	1239 Firmicutes	58
+k141_126557	family	186806 Eubacteriaceae	55
+k141_126557	family	186803 Lachnospiraceae	3
+k141_126557	genus	1730 Eubacterium	55
+k141_126557	genus	28050 Lachnospira	2
+k141_126557	genus	NA Lachnospiraceae gen. incertae sedis	1
+k141_126557	species	specI_v3_02375	55
+k141_126557	species	specI_v3_02374	2
+k141_126557	species	specI_v3_03672	1
+k141_110941	kingdom	2 Bacteria	96
+k141_110941	phylum	1239 Firmicutes	96
+k141_110941	family	186803 Lachnospiraceae	95
+k141_110941	family	186817 Bacillaceae	1
+k141_110941	genus	28050 Lachnospira	94
+k141_110941	genus	572511 Blautia	1
+k141_110941	genus	1386 Bacillus	1
+k141_110941	species	specI_v3_02374	93
+k141_110941	species	specI_v3_05263	1
+k141_110941	species	specI_v3_03662	1
+k141_110941	species	specI_v3_05327	1
+k141_157392	kingdom	2 Bacteria	3
+k141_157392	phylum	1239 Firmicutes	3
+k141_157392	family	186803 Lachnospiraceae	3
+k141_157392	genus	28050 Lachnospira	3
+k141_157392	species	specI_v3_02374	3
+k141_96390	kingdom	2 Bacteria	71
+k141_96390	phylum	1239 Firmicutes	71
+k141_96390	family	186803 Lachnospiraceae	67
+k141_96390	family	186806 Eubacteriaceae	2
+k141_96390	family	NA Clostridiales fam. incertae sedis	1
+k141_96390	family	186807 Peptococcaceae	1
+k141_96390	genus	28050 Lachnospira	66
+k141_96390	genus	1730 Eubacterium	2
+k141_96390	genus	NA Clostridiales gen. incertae sedis	1
+k141_96390	genus	572511 Blautia	1
+k141_96390	genus	293136 Desulfitibacter	1
+k141_96390	species	specI_v3_02374	66
+k141_96390	species	specI_v3_03684	1
+k141_96390	species	specI_v3_02373	1
+k141_96390	species	specI_v3_02375	1
+k141_96390	species	specI_v3_03658	1
+k141_96390	species	specI_v3_09200	1
+k141_49829	kingdom	2 Bacteria	167
+k141_49829	phylum	1239 Firmicutes	167
+k141_49829	family	186803 Lachnospiraceae	152
+k141_49829	family	541000 Ruminococcaceae	9
+k141_49829	family	186806 Eubacteriaceae	4
+k141_49829	family	NA Firmicutes fam. incertae sedis	1
+k141_49829	family	186804 Peptostreptococcaceae	1
+k141_49829	genus	28050 Lachnospira	149
+k141_49829	genus	1263 Ruminococcus	7
+k141_49829	genus	1730 Eubacterium	4
+k141_49829	genus	841 Roseburia	2
+k141_49829	genus	35829 Acetivibrio	2
+k141_49829	genus	1407607 Fusicatenibacter	1
+k141_49829	genus	NA Firmicutes gen. incertae sedis	1
+k141_49829	genus	1849828 Paeniclostridium	1
+k141_49829	species	specI_v3_02374	148
+k141_49829	species	specI_v3_10523	5
+k141_49829	species	specI_v3_10828	2
+k141_49829	species	specI_v3_00861	1
+k141_49829	species	specI_v3_02373	1
+k141_49829	species	specI_v3_02375	1
+k141_49829	species	specI_v3_01595	1
+k141_49829	species	specI_v3_03832	1
+k141_49829	species	specI_v3_02680	1
+k141_49829	species	specI_v3_07499	1
+k141_49829	species	specI_v3_03661	1
+k141_49829	species	specI_v3_07703	1
+k141_49829	species	specI_v3_09195	1
+k141_49829	species	specI_v3_07726	1
+k141_49829	species	specI_v3_03149	1
+k141_173935	kingdom	2 Bacteria	197
+k141_173935	phylum	1239 Firmicutes	197
+k141_173935	family	186803 Lachnospiraceae	191
+k141_173935	family	541000 Ruminococcaceae	2
+k141_173935	family	31979 Clostridiaceae	2
+k141_173935	family	186804 Peptostreptococcaceae	1
+k141_173935	family	186806 Eubacteriaceae	1
+k141_173935	genus	28050 Lachnospira	183
+k141_173935	genus	NA Lachnospiraceae gen. incertae sedis	8
+k141_173935	genus	1485 Clostridium	2
+k141_173935	genus	35829 Acetivibrio	1
+k141_173935	genus	1257 Peptostreptococcus	1
+k141_173935	genus	1263 Ruminococcus	1
+k141_173935	genus	1730 Eubacterium	1
+k141_173935	species	specI_v3_02374	183
+k141_173935	species	specI_v3_01683	7
+k141_173935	species	specI_v3_03657	1
+k141_173935	species	specI_v3_10828	1
+k141_173935	species	specI_v3_03621	1
+k141_173935	species	specI_v3_10692	1
+k141_173935	species	specI_v3_00853	1
+k141_173935	species	specI_v3_07606	1
+k141_173935	species	specI_v3_03634	1
+k141_20104	kingdom	2 Bacteria	67
+k141_20104	phylum	1239 Firmicutes	67
+k141_20104	family	186803 Lachnospiraceae	63
+k141_20104	family	NA Clostridiales fam. incertae sedis	3
+k141_20104	family	1300 Streptococcaceae	1
+k141_20104	genus	28050 Lachnospira	62
+k141_20104	genus	NA Clostridiales gen. incertae sedis	3
+k141_20104	genus	1407607 Fusicatenibacter	1
+k141_20104	genus	1301 Streptococcus	1
+k141_20104	species	specI_v3_02374	62
+k141_20104	species	specI_v3_03684	3
+k141_20104	species	specI_v3_02680	1
+k141_20104	species	specI_v3_09393	1
+k141_115403	kingdom	2 Bacteria	65
+k141_115403	phylum	1239 Firmicutes	65
+k141_115403	family	186806 Eubacteriaceae	59
+k141_115403	family	186803 Lachnospiraceae	3
+k141_115403	family	541000 Ruminococcaceae	2
+k141_115403	family	31979 Clostridiaceae	1
+k141_115403	genus	1730 Eubacterium	59
+k141_115403	genus	1506553 Lachnoclostridium	2
+k141_115403	genus	1017280 Pseudoflavonifractor	2
+k141_115403	genus	28050 Lachnospira	1
+k141_115403	genus	1935927 Massilioclostridium	1
+k141_115403	species	specI_v3_02375	56
+k141_115403	species	specI_v3_12218	2
+k141_115403	species	specI_v3_02969	2
+k141_115403	species	specI_v3_02374	1
+k141_115403	species	specI_v3_02373	1
+k141_115403	species	specI_v3_07679	1
+k141_115403	species	specI_v3_10237	1
+k141_115403	species	specI_v3_07678	1
+k141_161896	kingdom	2 Bacteria	50
+k141_161896	phylum	1239 Firmicutes	50
+k141_161896	family	186803 Lachnospiraceae	24
+k141_161896	family	186806 Eubacteriaceae	9
+k141_161896	family	NA Clostridiales fam. incertae sedis	6
+k141_161896	family	31979 Clostridiaceae	4
+k141_161896	family	NA Firmicutes fam. incertae sedis	4
+k141_161896	family	541000 Ruminococcaceae	1
+k141_161896	family	186804 Peptostreptococcaceae	1
+k141_161896	family	186817 Bacillaceae	1
+k141_161896	genus	28050 Lachnospira	11
+k141_161896	genus	1730 Eubacterium	9
+k141_161896	genus	841 Roseburia	7
+k141_161896	genus	NA Clostridiales gen. incertae sedis	6
+k141_161896	genus	1485 Clostridium	4
+k141_161896	genus	NA Firmicutes gen. incertae sedis	4
+k141_161896	genus	33042 Coprococcus	3
+k141_161896	genus	NA Lachnospiraceae gen. incertae sedis	1
+k141_161896	genus	1407607 Fusicatenibacter	1
+k141_161896	genus	1263 Ruminococcus	1
+k141_161896	genus	1505660 Asaccharospora	1
+k141_161896	genus	1386 Bacillus	1
+k141_161896	genus	207244 Anaerostipes	1
+k141_161896	species	specI_v3_02374	11
+k141_161896	species	specI_v3_02373	5
+k141_161896	species	specI_v3_09019	3
+k141_161896	species	specI_v3_03649	3
+k141_161896	species	specI_v3_02379	3
+k141_161896	species	specI_v3_03684	3
+k141_161896	species	specI_v3_07661	2
+k141_161896	species	specI_v3_02377	1
+k141_161896	species	specI_v3_07679	1
+k141_161896	species	specI_v3_09382	1
+k141_161896	species	specI_v3_08495	1
+k141_161896	species	specI_v3_07704	1
+k141_161896	species	specI_v3_06793	1
+k141_161896	species	specI_v3_06789	1
+k141_161896	species	specI_v3_07674	1
+k141_161896	species	specI_v3_07703	1
+k141_161896	species	specI_v3_03661	1
+k141_161896	species	specI_v3_03657	1
+k141_161896	species	specI_v3_03467	1
+k141_161896	species	specI_v3_07506	1
+k141_161896	species	specI_v3_02680	1
+k141_161896	species	specI_v3_07680	1
+k141_161896	species	specI_v3_07577	1
+k141_161896	species	specI_v3_07734	1
+k141_161896	species	specI_v3_07576	1
+k141_161896	species	specI_v3_07647	1
+k141_161896	species	specI_v3_07578	1
+k141_23511	kingdom	2 Bacteria	11
+k141_23511	phylum	1239 Firmicutes	10
+k141_23511	phylum	1224 Proteobacteria	1
+k141_23511	family	186806 Eubacteriaceae	6
+k141_23511	family	186803 Lachnospiraceae	3
+k141_23511	family	31979 Clostridiaceae	1
+k141_23511	family	1903409 Erwiniaceae	1
+k141_23511	genus	1730 Eubacterium	6
+k141_23511	genus	841 Roseburia	2
+k141_23511	genus	28050 Lachnospira	1
+k141_23511	genus	1485 Clostridium	1
+k141_23511	genus	53335 Pantoea	1
+k141_23511	species	specI_v3_02373	2
+k141_23511	species	specI_v3_07679	2
+k141_23511	species	specI_v3_03570	2
+k141_23511	species	specI_v3_02374	1
+k141_23511	species	specI_v3_07704	1
+k141_23511	species	specI_v3_00861	1
+k141_23511	species	specI_v3_07645	1
+k141_23511	species	specI_v3_01650	1
+k141_40315	kingdom	2 Bacteria	136
+k141_40315	phylum	1239 Firmicutes	136
+k141_40315	family	186803 Lachnospiraceae	131
+k141_40315	family	541000 Ruminococcaceae	3
+k141_40315	family	186806 Eubacteriaceae	2
+k141_40315	genus	28050 Lachnospira	131
+k141_40315	genus	1730 Eubacterium	2
+k141_40315	genus	244127 Anaerotruncus	2
+k141_40315	genus	1263 Ruminococcus	1
+k141_40315	species	specI_v3_02374	131
+k141_40315	species	specI_v3_07679	2
+k141_40315	species	specI_v3_07591	2
+k141_40315	species	specI_v3_00853	1
+k141_85190	kingdom	2 Bacteria	225
+k141_85190	phylum	1239 Firmicutes	223
+k141_85190	phylum	201174 Actinobacteria	2
+k141_85190	family	186806 Eubacteriaceae	212
+k141_85190	family	186803 Lachnospiraceae	10
+k141_85190	family	1643826 Eggerthellaceae	2
+k141_85190	family	541000 Ruminococcaceae	1
+k141_85190	genus	1730 Eubacterium	212
+k141_85190	genus	28050 Lachnospira	3
+k141_85190	genus	1506553 Lachnoclostridium	3
+k141_85190	genus	NA Lachnospiraceae gen. incertae sedis	2
+k141_85190	genus	84108 Slackia	2
+k141_85190	genus	1263 Ruminococcus	1
+k141_85190	genus	265975 Oribacterium	1
+k141_85190	genus	830 Butyrivibrio	1
+k141_85190	species	specI_v3_02375	208
+k141_85190	species	specI_v3_02373	3
+k141_85190	species	specI_v3_12218	3
+k141_85190	species	specI_v3_03832	2
+k141_85190	species	specI_v3_11286	2
+k141_85190	species	specI_v3_02374	1
+k141_85190	species	specI_v3_07500	1
+k141_85190	species	specI_v3_03661	1
+k141_85190	species	specI_v3_11151	1
+k141_85190	species	specI_v3_11576	1
+k141_85190	species	specI_v3_04292	1
+k141_85190	species	specI_v3_07338	1
+k141_41156	kingdom	2 Bacteria	37
+k141_41156	phylum	1239 Firmicutes	37
+k141_41156	family	186803 Lachnospiraceae	36
+k141_41156	family	186806 Eubacteriaceae	1
+k141_41156	genus	28050 Lachnospira	36
+k141_41156	genus	1730 Eubacterium	1
+k141_41156	species	specI_v3_02374	36
+k141_41156	species	specI_v3_07679	1
+k141_70941	kingdom	2 Bacteria	30
+k141_70941	phylum	1239 Firmicutes	30
+k141_70941	family	186806 Eubacteriaceae	18
+k141_70941	family	186803 Lachnospiraceae	10
+k141_70941	family	31979 Clostridiaceae	2
+k141_70941	genus	1730 Eubacterium	18
+k141_70941	genus	28050 Lachnospira	5
+k141_70941	genus	572511 Blautia	2
+k141_70941	genus	1485 Clostridium	2
+k141_70941	genus	33042 Coprococcus	1
+k141_70941	genus	841 Roseburia	1
+k141_70941	genus	189330 Dorea	1
+k141_70941	species	specI_v3_02375	14
+k141_70941	species	specI_v3_02374	5
+k141_70941	species	specI_v3_02373	4
+k141_70941	species	specI_v3_03621	2
+k141_70941	species	specI_v3_02377	1
+k141_70941	species	specI_v3_05140	1
+k141_70941	species	specI_v3_03662	1
+k141_70941	species	specI_v3_00859	1
+k141_70941	species	specI_v3_07503	1
+k141_118982	kingdom	2 Bacteria	3
+k141_118982	phylum	1239 Firmicutes	3
+k141_118982	family	186803 Lachnospiraceae	3
+k141_118982	genus	28050 Lachnospira	3
+k141_118982	species	specI_v3_02374	3
+k141_134709	kingdom	2 Bacteria	45
+k141_134709	phylum	1239 Firmicutes	44
+k141_134709	phylum	201174 Actinobacteria	1
+k141_134709	family	186806 Eubacteriaceae	31
+k141_134709	family	186803 Lachnospiraceae	7
+k141_134709	family	31979 Clostridiaceae	5
+k141_134709	family	541000 Ruminococcaceae	1
+k141_134709	family	1643826 Eggerthellaceae	1
+k141_134709	genus	1730 Eubacterium	31
+k141_134709	genus	28050 Lachnospira	5
+k141_134709	genus	1485 Clostridium	5
+k141_134709	genus	1506553 Lachnoclostridium	2
+k141_134709	genus	35829 Acetivibrio	1
+k141_134709	genus	2005386 Arabia	1
+k141_134709	species	specI_v3_02375	27
+k141_134709	species	specI_v3_02374	4
+k141_134709	species	specI_v3_07679	2
+k141_134709	species	specI_v3_07611	1
+k141_134709	species	specI_v3_03832	1
+k141_134709	species	specI_v3_10828	1
+k141_134709	species	specI_v3_12218	1
+k141_134709	species	specI_v3_07976	1
+k141_134709	species	specI_v3_07674	1
+k141_134709	species	specI_v3_04828	1
+k141_134709	species	specI_v3_08546	1
+k141_134709	species	specI_v3_08315	1
+k141_134709	species	specI_v3_10234	1
+k141_134709	species	specI_v3_08038	1
+k141_134709	species	specI_v3_05865	1
+k141_119797	kingdom	2 Bacteria	10
+k141_119797	phylum	1239 Firmicutes	10
+k141_119797	family	186803 Lachnospiraceae	9
+k141_119797	family	186806 Eubacteriaceae	1
+k141_119797	genus	28050 Lachnospira	9
+k141_119797	genus	1730 Eubacterium	1
+k141_119797	species	specI_v3_02374	9
+k141_119797	species	specI_v3_07679	1
+k141_58683	kingdom	2 Bacteria	75
+k141_58683	phylum	1239 Firmicutes	72
+k141_58683	phylum	1224 Proteobacteria	1
+k141_58683	phylum	NA Bacteria phylum incertae sedis	1
+k141_58683	phylum	976 Bacteroidetes	1
+k141_58683	family	186803 Lachnospiraceae	31
+k141_58683	family	186806 Eubacteriaceae	21
+k141_58683	family	31979 Clostridiaceae	10
+k141_58683	family	541000 Ruminococcaceae	5
+k141_58683	family	NA Clostridiales fam. incertae sedis	2
+k141_58683	family	NA Firmicutes fam. incertae sedis	1
+k141_58683	family	1240483 Orbaceae	1
+k141_58683	family	NA Bacteria fam. incertae sedis	1
+k141_58683	family	NA Bacteroidales fam. incertae sedis	1
+k141_58683	family	186828 Carnobacteriaceae	1
+k141_58683	family	543314 Clostridiales Family XIII. Incertae Sedis	1
+k141_58683	genus	1730 Eubacterium	20
+k141_58683	genus	28050 Lachnospira	12
+k141_58683	genus	1485 Clostridium	10
+k141_58683	genus	NA Lachnospiraceae gen. incertae sedis	7
+k141_58683	genus	830 Butyrivibrio	4
+k141_58683	genus	841 Roseburia	3
+k141_58683	genus	33042 Coprococcus	3
+k141_58683	genus	NA Clostridiales gen. incertae sedis	2
+k141_58683	genus	1263 Ruminococcus	2
+k141_58683	genus	NA Ruminococcaceae gen. incertae sedis	2
+k141_58683	genus	NA Firmicutes gen. incertae sedis	1
+k141_58683	genus	189330 Dorea	1
+k141_58683	genus	572511 Blautia	1
+k141_58683	genus	1924105 Neglecta	1
+k141_58683	genus	NA Eubacteriaceae gen. incertae sedis	1
+k141_58683	genus	1193503 Gilliamella	1
+k141_58683	genus	NA Bacteria gen. incertae sedis	1
+k141_58683	genus	NA Bacteroidales gen. incertae sedis	1
+k141_58683	genus	82802 Trichococcus	1
+k141_58683	genus	1926556 Emergencia	1
+k141_58683	species	specI_v3_02373	10
+k141_58683	species	specI_v3_02374	8
+k141_58683	species	specI_v3_03610	5
+k141_58683	species	specI_v3_03832	4
+k141_58683	species	specI_v3_02375	4
+k141_58683	species	specI_v3_08349	3
+k141_58683	species	specI_v3_07605	3
+k141_58683	species	specI_v3_07661	2
+k141_58683	species	specI_v3_07629	2
+k141_58683	species	specI_v3_08485	2
+k141_58683	species	specI_v3_03657	2
+k141_58683	species	specI_v3_05206	1
+k141_58683	species	specI_v3_07800	1
+k141_58683	species	specI_v3_07681	1
+k141_58683	species	specI_v3_03003	1
+k141_58683	species	specI_v3_02151	1
+k141_58683	species	specI_v3_09412	1
+k141_58683	species	specI_v3_09005	1
+k141_58683	species	specI_v3_04768	1
+k141_58683	species	specI_v3_09386	1
+k141_58683	species	specI_v3_09387	1
+k141_58683	species	specI_v3_07338	1
+k141_58683	species	specI_v3_07672	1
+k141_58683	species	specI_v3_07499	1
+k141_58683	species	specI_v3_08492	1
+k141_58683	species	specI_v3_07577	1
+k141_58683	species	specI_v3_07611	1
+k141_58683	species	specI_v3_03605	1
+k141_58683	species	specI_v3_03684	1
+k141_58683	species	specI_v3_10000	1
+k141_58683	species	specI_v3_07679	1
+k141_58683	species	specI_v3_02379	1
+k141_58683	species	specI_v3_03668	1
+k141_58683	species	specI_v3_00853	1
+k141_58683	species	specI_v3_07626	1
+k141_58683	species	specI_v3_01595	1
+k141_58683	species	specI_v3_08868	1
+k141_58683	species	specI_v3_03632	1
+k141_58683	species	specI_v3_03609	1
+k141_58683	species	specI_v3_00859	1
+k141_58683	species	specI_v3_12020	1
+k141_74799	kingdom	2 Bacteria	155
+k141_74799	phylum	1239 Firmicutes	155
+k141_74799	family	186803 Lachnospiraceae	153
+k141_74799	family	186806 Eubacteriaceae	1
+k141_74799	family	541000 Ruminococcaceae	1
+k141_74799	genus	28050 Lachnospira	153
+k141_74799	genus	1730 Eubacterium	1
+k141_74799	genus	1263 Ruminococcus	1
+k141_74799	species	specI_v3_02374	153
+k141_74799	species	specI_v3_02375	1
+k141_74799	species	specI_v3_03661	1
+k141_4874	kingdom	2 Bacteria	69
+k141_4874	phylum	1239 Firmicutes	69
+k141_4874	family	186806 Eubacteriaceae	66
+k141_4874	family	186803 Lachnospiraceae	3
+k141_4874	genus	1730 Eubacterium	66
+k141_4874	genus	NA Lachnospiraceae gen. incertae sedis	2
+k141_4874	genus	28050 Lachnospira	1
+k141_4874	species	specI_v3_02375	65
+k141_4874	species	specI_v3_03657	2
+k141_4874	species	specI_v3_07679	1
+k141_4874	species	specI_v3_03832	1
+k141_6245	kingdom	2 Bacteria	284
+k141_6245	phylum	1239 Firmicutes	284
+k141_6245	family	186806 Eubacteriaceae	236
+k141_6245	family	186803 Lachnospiraceae	30
+k141_6245	family	31979 Clostridiaceae	7
+k141_6245	family	NA Clostridiales fam. incertae sedis	4
+k141_6245	family	186804 Peptostreptococcaceae	1
+k141_6245	family	186814 Thermoanaerobacteraceae	1
+k141_6245	family	186822 Paenibacillaceae	1
+k141_6245	family	128827 Erysipelotrichaceae	1
+k141_6245	family	541000 Ruminococcaceae	1
+k141_6245	family	NA Clostridia fam. incertae sedis	1
+k141_6245	family	NA Firmicutes fam. incertae sedis	1
+k141_6245	genus	1730 Eubacterium	235
+k141_6245	genus	653683 Anaerosporobacter	9
+k141_6245	genus	1506553 Lachnoclostridium	5
+k141_6245	genus	1485 Clostridium	5
+k141_6245	genus	841 Roseburia	4
+k141_6245	genus	NA Clostridiales gen. incertae sedis	4
+k141_6245	genus	NA Lachnospiraceae gen. incertae sedis	3
+k141_6245	genus	46205 Pseudobutyrivibrio	2
+k141_6245	genus	572511 Blautia	2
+k141_6245	genus	830 Butyrivibrio	2
+k141_6245	genus	249529 Caldanaerobacter	1
+k141_6245	genus	1257 Peptostreptococcus	1
+k141_6245	genus	44249 Paenibacillus	1
+k141_6245	genus	28050 Lachnospira	1
+k141_6245	genus	1769729 Hathewaya	1
+k141_6245	genus	NA Erysipelotrichaceae gen. incertae sedis	1
+k141_6245	genus	100175 Papillibacter	1
+k141_6245	genus	1843210 Anaerocolumna	1
+k141_6245	genus	33042 Coprococcus	1
+k141_6245	genus	NA Clostridia gen. incertae sedis	1
+k141_6245	genus	NA Firmicutes gen. incertae sedis	1
+k141_6245	genus	89958 Natronincola	1
+k141_6245	genus	264995 Anaerofustis	1
+k141_6245	species	specI_v3_02375	225
+k141_6245	species	specI_v3_06740	9
+k141_6245	species	specI_v3_03684	4
+k141_6245	species	specI_v3_02373	3
+k141_6245	species	specI_v3_03632	3
+k141_6245	species	specI_v3_02151	2
+k141_6245	species	specI_v3_07679	2
+k141_6245	species	specI_v3_02413	2
+k141_6245	species	specI_v3_03649	2
+k141_6245	species	specI_v3_03443	2
+k141_6245	species	specI_v3_08329	2
+k141_6245	species	specI_v3_09354	1
+k141_6245	species	specI_v3_04652	1
+k141_6245	species	specI_v3_07000	1
+k141_6245	species	specI_v3_07678	1
+k141_6245	species	specI_v3_03657	1
+k141_6245	species	specI_v3_06800	1
+k141_6245	species	specI_v3_03798	1
+k141_6245	species	specI_v3_06797	1
+k141_6245	species	specI_v3_04663	1
+k141_6245	species	specI_v3_09092	1
+k141_6245	species	specI_v3_07723	1
+k141_6245	species	specI_v3_11180	1
+k141_6245	species	specI_v3_03437	1
+k141_6245	species	specI_v3_08480	1
+k141_6245	species	specI_v3_03612	1
+k141_6245	species	specI_v3_03007	1
+k141_6245	species	specI_v3_04586	1
+k141_6245	species	specI_v3_04749	1
+k141_6245	species	specI_v3_04240	1
+k141_6245	species	specI_v3_03466	1
+k141_6245	species	specI_v3_10692	1
+k141_6245	species	specI_v3_03672	1
+k141_6245	species	specI_v3_00859	1
+k141_6245	species	specI_v3_05263	1
+k141_6245	species	specI_v3_07677	1
+k141_6245	species	specI_v3_07577	1
+k141_6245	species	specI_v3_02377	1
+k141_6245	species	specI_v3_11219	1
+k141_126244	kingdom	2 Bacteria	53
+k141_126244	phylum	1239 Firmicutes	53
+k141_126244	family	186806 Eubacteriaceae	49
+k141_126244	family	31979 Clostridiaceae	2
+k141_126244	family	186803 Lachnospiraceae	2
+k141_126244	genus	1730 Eubacterium	49
+k141_126244	genus	1485 Clostridium	2
+k141_126244	genus	841 Roseburia	1
+k141_126244	genus	NA Lachnospiraceae gen. incertae sedis	1
+k141_126244	species	specI_v3_02375	49
+k141_126244	species	specI_v3_03600	2
+k141_126244	species	specI_v3_00860	1
+k141_126244	species	specI_v3_08489	1
+k141_90251	kingdom	2 Bacteria	69
+k141_90251	phylum	1239 Firmicutes	69
+k141_90251	family	186806 Eubacteriaceae	63
+k141_90251	family	186803 Lachnospiraceae	3
+k141_90251	family	NA Clostridiales fam. incertae sedis	2
+k141_90251	family	216572 Oscillospiraceae	1
+k141_90251	genus	1730 Eubacterium	63
+k141_90251	genus	NA Lachnospiraceae gen. incertae sedis	2
+k141_90251	genus	NA Clostridiales gen. incertae sedis	2
+k141_90251	genus	572511 Blautia	1
+k141_90251	genus	459786 Oscillibacter	1
+k141_90251	species	specI_v3_02375	63
+k141_90251	species	specI_v3_10528	1
+k141_90251	species	specI_v3_02151	1
+k141_90251	species	specI_v3_08491	1
+k141_90251	species	specI_v3_07502	1
+k141_90251	species	specI_v3_09013	1
+k141_90251	species	specI_v3_09011	1
+k141_20842	kingdom	2 Bacteria	11
+k141_20842	phylum	1239 Firmicutes	11
+k141_20842	family	186803 Lachnospiraceae	4
+k141_20842	family	33958 Lactobacillaceae	3
+k141_20842	family	186806 Eubacteriaceae	2
+k141_20842	family	128827 Erysipelotrichaceae	1
+k141_20842	family	31979 Clostridiaceae	1
+k141_20842	genus	1506553 Lachnoclostridium	4
+k141_20842	genus	1578 Lactobacillus	3
+k141_20842	genus	1730 Eubacterium	2
+k141_20842	genus	61170 Holdemania	1
+k141_20842	genus	1485 Clostridium	1
+k141_20842	species	specI_v3_12218	3
+k141_20842	species	specI_v3_04393	3
+k141_20842	species	specI_v3_07679	1
+k141_20842	species	specI_v3_05921	1
+k141_20842	species	specI_v3_09391	1
+k141_20842	species	specI_v3_01830	1
+k141_20842	species	specI_v3_04567	1
+k141_174816	kingdom	2 Bacteria	107
+k141_174816	phylum	1239 Firmicutes	107
+k141_174816	family	186806 Eubacteriaceae	105
+k141_174816	family	186803 Lachnospiraceae	2
+k141_174816	genus	1730 Eubacterium	105
+k141_174816	genus	841 Roseburia	1
+k141_174816	genus	207244 Anaerostipes	1
+k141_174816	species	specI_v3_02375	104
+k141_174816	species	specI_v3_07679	1
+k141_174816	species	specI_v3_03649	1
+k141_174816	species	specI_v3_00856	1
+k141_164846	kingdom	2 Bacteria	45
+k141_164846	phylum	1239 Firmicutes	45
+k141_164846	family	186806 Eubacteriaceae	45
+k141_164846	genus	1730 Eubacterium	45
+k141_164846	species	specI_v3_02375	44
+k141_164846	species	specI_v3_07679	1
+k141_134980	kingdom	2 Bacteria	13
+k141_134980	phylum	1239 Firmicutes	13
+k141_134980	family	186806 Eubacteriaceae	13
+k141_134980	genus	1730 Eubacterium	13
+k141_134980	species	specI_v3_02375	11
+k141_134980	species	specI_v3_07679	2
+k141_170130	kingdom	2 Bacteria	19
+k141_170130	phylum	1239 Firmicutes	18
+k141_170130	phylum	65842 Fibrobacteres	1
+k141_170130	family	186806 Eubacteriaceae	18
+k141_170130	family	204431 Fibrobacteraceae	1
+k141_170130	genus	1730 Eubacterium	18
+k141_170130	genus	832 Fibrobacter	1
+k141_170130	species	specI_v3_02375	18
+k141_170130	species	specI_v3_05981	1
+k141_18190	kingdom	2 Bacteria	82
+k141_18190	phylum	1239 Firmicutes	81
+k141_18190	phylum	1224 Proteobacteria	1
+k141_18190	family	186806 Eubacteriaceae	78
+k141_18190	family	186803 Lachnospiraceae	3
+k141_18190	family	84642 Aeromonadaceae	1
+k141_18190	genus	1730 Eubacterium	78
+k141_18190	genus	841 Roseburia	2
+k141_18190	genus	189330 Dorea	1
+k141_18190	genus	642 Aeromonas	1
+k141_18190	species	specI_v3_02375	78
+k141_18190	species	specI_v3_03649	2
+k141_18190	species	specI_v3_03668	1
+k141_18190	species	specI_v3_00055	1
+k141_51559	kingdom	2 Bacteria	5
+k141_51559	phylum	1239 Firmicutes	5
+k141_51559	family	186806 Eubacteriaceae	5
+k141_51559	genus	1730 Eubacterium	5
+k141_51559	species	specI_v3_02375	5
+k141_22172	kingdom	2 Bacteria	12
+k141_22172	phylum	1239 Firmicutes	11
+k141_22172	phylum	201174 Actinobacteria	1
+k141_22172	family	186806 Eubacteriaceae	10
+k141_22172	family	541000 Ruminococcaceae	1
+k141_22172	family	31953 Bifidobacteriaceae	1
+k141_22172	genus	1730 Eubacterium	10
+k141_22172	genus	1263 Ruminococcus	1
+k141_22172	genus	1678 Bifidobacterium	1
+k141_22172	species	specI_v3_02375	10
+k141_22172	species	specI_v3_01595	1
+k141_22172	species	specI_v3_04325	1
+k141_83967	kingdom	2 Bacteria	11
+k141_83967	phylum	1239 Firmicutes	11
+k141_83967	family	186806 Eubacteriaceae	11
+k141_83967	genus	1730 Eubacterium	11
+k141_83967	species	specI_v3_02375	11
+k141_22526	kingdom	2 Bacteria	68
+k141_22526	phylum	1239 Firmicutes	68
+k141_22526	family	186806 Eubacteriaceae	66
+k141_22526	family	541000 Ruminococcaceae	1
+k141_22526	family	186803 Lachnospiraceae	1
+k141_22526	genus	1730 Eubacterium	66
+k141_22526	genus	1263 Ruminococcus	1
+k141_22526	genus	28050 Lachnospira	1
+k141_22526	species	specI_v3_02375	66
+k141_22526	species	specI_v3_03342	1
+k141_22526	species	specI_v3_03832	1
+k141_22843	kingdom	2 Bacteria	57
+k141_22843	phylum	1239 Firmicutes	57
+k141_22843	family	186806 Eubacteriaceae	57
+k141_22843	genus	1730 Eubacterium	57
+k141_22843	species	specI_v3_02375	57
+k141_69850	kingdom	2 Bacteria	41
+k141_69850	phylum	1239 Firmicutes	41
+k141_69850	family	186806 Eubacteriaceae	37
+k141_69850	family	186803 Lachnospiraceae	2
+k141_69850	family	31979 Clostridiaceae	1
+k141_69850	family	128827 Erysipelotrichaceae	1
+k141_69850	genus	1730 Eubacterium	37
+k141_69850	genus	841 Roseburia	2
+k141_69850	genus	1485 Clostridium	1
+k141_69850	genus	1470349 Candidatus Stoquefichus	1
+k141_69850	species	specI_v3_02375	37
+k141_69850	species	specI_v3_07577	1
+k141_69850	species	specI_v3_07703	1
+k141_69850	species	specI_v3_09996	1
+k141_69850	species	specI_v3_03153	1
+k141_165016	kingdom	2 Bacteria	7
+k141_165016	phylum	1239 Firmicutes	7
+k141_165016	family	186806 Eubacteriaceae	7
+k141_165016	genus	1730 Eubacterium	7
+k141_165016	species	specI_v3_02375	7
+k141_62539	kingdom	2 Bacteria	3
+k141_62539	phylum	1239 Firmicutes	3
+k141_62539	family	186803 Lachnospiraceae	1
+k141_62539	family	31979 Clostridiaceae	1
+k141_62539	family	186804 Peptostreptococcaceae	1
+k141_62539	genus	46205 Pseudobutyrivibrio	1
+k141_62539	genus	1485 Clostridium	1
+k141_62539	genus	1849822 Paraclostridium	1
+k141_62539	species	specI_v3_02410	1
+k141_62539	species	specI_v3_07641	1
+k141_62539	species	specI_v3_03147	1
