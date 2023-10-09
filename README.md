@@ -1,6 +1,8 @@
 # 🦠 My Microbiome toolkit
 There are scripts for microbiome analysis, metagenome assembly pipelines, and visualization of results of programs, which are commonly used in metagenome analysis. 
 
+![Logo2_small](https://github.com/Chartiza/Microbiome/assets/15068419/13777084-de09-4425-9fd5-d9be715c548a)
+
 🤗 Folders: 
 
 - <b> checkM1_vs_checkM2 </b> - comparison of the performance of programs tested on complete circulated genomes from different phyla <br>
@@ -11,4 +13,3 @@ There are scripts for microbiome analysis, metagenome assembly pipelines, and vi
 - <b> gunc_visualization </b> - GUNC output visualization of contig annotations <br>
 - <b> ShortReads_from_LongReads </b> - converting long Pacbio reads into short PE Illumina reads <br>
 
-![we_are_99perc_small](https://github.com/Chartiza/Microbiome/assets/15068419/3e59ea0d-be11-4172-a575-818a83d1e648)
