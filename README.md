@@ -3,13 +3,12 @@ There are scripts for microbiome analysis, metagenome assembly pipelines, and vi
 
 🤗 Folders: 
 
-<i> checkM1_vs_checkM2 </i> - comparison of the performance of programs tested on complete circulated genomes from different phyla <br>
-<i> NCBI_vs_GTDB </i> - comparison of Bacterail & Arhaeal in two databases <br>
-<i> Program_Comparison </i> - comparing bin quality between binners and MAGpurify improving performance <br>
-<i> RAD </i> - exploratory metagenomic analysis scripts <br>
-<i> gtdb_vizualization </i> - Bacteria and Archae taxonomy <br>
-<i> gunc_visualization </i> - GUNC output visualization of contig annotations <br>
-<i> ShortReads_from_LongReads </i> - converting long Pacbio reads into short PE Illumina reads <br>
+- <b> checkM1_vs_checkM2 </b> - comparison of the performance of programs tested on complete circulated genomes from different phyla <br>
+- <b> NCBI_vs_GTDB </b> - comparison of Bacterail & Arhaeal in two databases <br>
+- <b> Program_Comparison </b> - comparing bin quality between binners and MAGpurify improving performance <br>
+- <b> RAD </b> - exploratory metagenomic analysis scripts <br>
+- <b> gtdb_vizualization </b> - Bacteria and Archae taxonomy <br>
+- <b> gunc_visualization </b> - GUNC output visualization of contig annotations <br>
+- <b> ShortReads_from_LongReads </b> - converting long Pacbio reads into short PE Illumina reads <br>
 
-<img width="1323" alt="Pic_genus" src="https://user-images.githubusercontent.com/15068419/178560631-8c3c1f76-7d1b-4b04-8a61-7b80e09b7c57.png">
-
+![we_are_99perc_small](https://github.com/Chartiza/Microbiome/assets/15068419/3e59ea0d-be11-4172-a575-818a83d1e648)
