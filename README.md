@@ -3,7 +3,7 @@ There are scripts for microbiome analysis, metagenome assembly pipelines, and vi
 
 ![alt text](we-are2_small2.PNG)
 
-- <b> checkM1_vs_checkM2 </b> - comparison of the performance of programs tested on complete circulated genomes from different phyla <br>
+- <b>[**checkM1_vs_checkM2**](./checkM1_vs_checkM2) </b> - comparison of the performance of programs tested on complete circulated genomes from different phyla <br>
 - <b> NCBI_vs_GTDB </b> - comparison of Bacterail & Arhaeal in two databases <br>
 - <b> NCBI_tax_id </b> - assign NCBI tax-id to species from GTDB wich has match in NCBI <br>
 - <b> Program_Comparison </b> - comparing bin quality between binners and MAGpurify improving performance <br>
