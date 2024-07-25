@@ -1,7 +1,7 @@
 # 🦠 My Microbiome toolkit
 There are scripts for microbiome analysis, metagenome assembly pipelines, and visualization of results of programs, which are commonly used in metagenome analysis. 
 
-![alt text](we-are2_small.PNG)
+![alt text](we-are2_small2.PNG)
 
 - <b> checkM1_vs_checkM2 </b> - comparison of the performance of programs tested on complete circulated genomes from different phyla <br>
 - <b> NCBI_vs_GTDB </b> - comparison of Bacterail & Arhaeal in two databases <br>
